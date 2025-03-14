@@ -33,7 +33,7 @@ TWITCH_CLIENT_SECRET=**твой_client_secret**
 
 ### Как получить client_id и client_secret:
 
-1) Зарегистрируйся на Twitch.
+1) Зарегистрируйся на [Twitch.](https://dev.twitch.tv/console)
 
 2) Выбери OAuth Client Credentials.
 
