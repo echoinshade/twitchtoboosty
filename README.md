@@ -33,11 +33,14 @@ TWITCH_CLIENT_SECRET=**твой_client_secret**
 
 ### Как получить client_id и client_secret:
 
-1) Зарегистрируйся на [Twitch.](https://dev.twitch.tv/console)
+### Как получить client_id и client_secret:
 
-2) Выбери OAuth Client Credentials.
-
-3) Получи client_id и client_secret.
+1) Зарегистрируйся на [Twitch console.](https://dev.twitch.tv/console)
+2) Выбери Заявки
+3) Введи любое название (лучше осмысленное!)
+4) В OAuth Redirect URL указать https://localhost
+5) Категория Application Integraion
+6) Получам client_id и client_secret
 
 ## 📥 2. Скачивание видео с Twitch
 
