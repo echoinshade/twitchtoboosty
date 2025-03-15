@@ -33,8 +33,6 @@ TWITCH_CLIENT_SECRET=**твой_client_secret**
 
 ### Как получить client_id и client_secret:
 
-### Как получить client_id и client_secret:
-
 1) Зарегистрируйся на [Twitch console.](https://dev.twitch.tv/console)
 2) Выбери Заявки
 3) Введи любое название (лучше осмысленное!)
@@ -131,7 +129,12 @@ yt-dlp: command not found
 ## Мой пример работы с консолью
 
 `E:
+
 cd E:\downloader
+
 python twitch_downloader.py
+
 "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --remote-debugging-port=9222 --user-data-dir="C:\selenium_edge"
+
 python boosty_uploader.py`
+
